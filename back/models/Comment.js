@@ -1,22 +1,41 @@
 const mongoose = require('mongoose');
 
 const commentSchema = new mongoose.Schema({
-    body : String,
+    body :  {
+        type : String,
+        required : true,
+    },
     Campaign : {
         type : mongoose.Schema.Types.ObjectId,
+        required : true,
         ref : 'Campaign'
     },
-    campaignId: Number,
-    commentType : String,
-    userNickname : String, 
-    whenCreated : String,
-    
+    campaignId :  {
+        type : Number,
+        required : true,
+    },
+    commentType : {
+        type : String,
+        required : false,
+        default : "REVIEW"
+    },
+    userNickname :  {
+        type : String,
+        required : true,
+    },
+    whenCreated :  {
+        type : String,
+        required : false,
+    },
     parentCommentId : {
         type : mongoose.Schema.Types.ObjectId,
+        required : false,
         ref : 'Comment'
     }, 
-
-    depth : Number,
+    depth :  {
+        type : Number,
+        required : true,
+    },
 
   }, {timestamps: true});
   
