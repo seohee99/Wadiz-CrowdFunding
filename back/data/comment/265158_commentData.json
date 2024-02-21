@@ -1,0 +1,544 @@
+[
+  {
+    "encUserId": 11218414416,
+    "campaignId": 0,
+    "boardId": 3558184,
+    "depth": 0,
+    "commonId": 265158,
+    "body": "정말 맛있네요. 저의 최애 아이스크림 바*바맛이 납니다.ㅎㅎ\n너무 달지않고 양도 많아서 한끼로 든든할거 같아요.\n어제 제조해서 오늘 받았어요. 굿굿!",
+    "commentType": "PHOTO_REVIEW",
+    "whenCreated": "2024-02-21 15:26:31.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "jwona",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2023/1221/20231221093328316_7011509.png",
+    "hasReply": false,
+    "commentReplys": [],
+    "commentImages": [
+      {
+        "uploadImageSeq": 154765,
+        "boardId": 3558184,
+        "imageKey": "community/2024/02/21/b31af435-370b-47fb-bf14-2090224eee3e.jpeg",
+        "orderNo": 1,
+        "url": "https://cdn3.wadiz.kr/community/2024/02/21/b31af435-370b-47fb-bf14-2090224eee3e.jpeg",
+        "deleted": false
+      },
+      {
+        "uploadImageSeq": 154766,
+        "boardId": 3558184,
+        "imageKey": "community/2024/02/21/e8eb26e3-6492-4929-aef2-3ce552e02ad8.jpeg",
+        "orderNo": 2,
+        "url": "https://cdn3.wadiz.kr/community/2024/02/21/e8eb26e3-6492-4929-aef2-3ce552e02ad8.jpeg",
+        "deleted": false
+      },
+      {
+        "uploadImageSeq": 154767,
+        "boardId": 3558184,
+        "imageKey": "community/2024/02/21/59067136-7341-40e6-ad7e-e93a34a2ded1.jpeg",
+        "orderNo": 3,
+        "url": "https://cdn3.wadiz.kr/community/2024/02/21/59067136-7341-40e6-ad7e-e93a34a2ded1.jpeg",
+        "deleted": false
+      }
+    ],
+    "userFollow": {
+      "userId": 7011509,
+      "isFollowing": false
+    },
+    "reactions": [],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": 2012896010,
+    "campaignId": 0,
+    "boardId": 3541153,
+    "depth": 0,
+    "commonId": 265158,
+    "body": "빨리 받아서 먹어보고싶어요~~ 기대됩니당",
+    "commentType": "SUPPORT",
+    "whenCreated": "2024-02-09 21:26:39.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "발렌티나",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-5.png",
+    "hasReply": false,
+    "commentReplys": [],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 2012896,
+      "isFollowing": false
+    },
+    "reactions": [],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": 1876401807,
+    "campaignId": 0,
+    "boardId": 3541130,
+    "depth": 0,
+    "commonId": 265158,
+    "body": "처음시키는거지만 무조건 맛있을거라고 기대중이예요ㅎㅎ\n끝까지 응원합니당😄",
+    "commentType": "SUPPORT",
+    "whenCreated": "2024-02-09 20:53:33.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "정유정",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20200408080106393_6536604.jpg",
+    "hasReply": false,
+    "commentReplys": [],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 2680574,
+      "isFollowing": false
+    },
+    "reactions": [],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": 2338352505,
+    "campaignId": 0,
+    "boardId": 3541059,
+    "depth": 0,
+    "commonId": 265158,
+    "body": "어느순간 고구마라떼에 빠져서 맛있는 고구마로 간단한 한끼 해결할수 있는걸 엄청 찾고있었는데 딱 제가 원하는 그런것같아요 메이커님꺼 첫 펀딩 하는건데 맛있었으면 좋겠어요 기대중입니다!",
+    "commentType": "SUPPORT",
+    "whenCreated": "2024-02-09 18:39:50.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "림림",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-6.png",
+    "hasReply": false,
+    "commentReplys": [],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 4676705,
+      "isFollowing": false
+    },
+    "reactions": [],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 3430713006,
+    "campaignId": 0,
+    "boardId": 3537068,
+    "depth": 0,
+    "commonId": 265158,
+    "body": "밤호박도 두번이나 구매 ..다 먹고 내가왜 이거뿐이.안샀을까 후회중......ㅜㅜㅜㅜㅜㅜ 이번에는 쟁겨놔야지",
+    "commentType": "SUPPORT",
+    "whenCreated": "2024-02-06 22:24:15.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "J.y_sun",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-6.png",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 12455364519,
+        "campaignId": 0,
+        "boardId": 3540823,
+        "depth": 1,
+        "commonId": 265158,
+        "body": "안녕하세요 J.y_sun 서포터님\n진짜 밤호박한끼는 역대급 이었죠!\n고구마한끼는 너무 익숙한데 계속 손이가는 맛! 진짜 호불없이 애들까지도 좋아하는 맛의 한끼랍니다!\n밤호박한끼로 처음 만났지만 고구마한끼 만나고 취향 저격 당하신분들이 한두분이 아닐거라 생각해요 ㅎㅎ\n이번에는 꼭!!! 쟁겨놓으시구 72시간이벤트 준비중이니 함께 해요♥",
+        "commentType": null,
+        "whenCreated": "2024-02-09 14:29:44.0",
+        "del": false,
+        "parentBoardId": 3537068,
+        "nickName": "옥키",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2023/0731/20230731145615429_228577.png",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 5717855,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 80967,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": 823500010,
+    "campaignId": 0,
+    "boardId": 3532850,
+    "depth": 0,
+    "commonId": 265158,
+    "body": "안녕하세요\n냉동보관했다가 먹기 하루 전 냉장고에 꺼내놓고 먹으면 되나요?",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-04 23:46:07.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "함워르",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green002/sns_profile_pics/20181019114657484_95236516.jpg",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 3479305005,
+        "campaignId": 0,
+        "boardId": 3540561,
+        "depth": 1,
+        "commonId": 265158,
+        "body": "옙! 먹어본 소비자로써 자기전에 냉동실에 꺼내두시고 일어나서 먹는게 좋더라구요! \n전 밤호박을 주문했었는데 전자렌지에 돌려 아빠가 잘 드시더라구요~ 밤호박 너무 맛있어!!! ",
+        "commentType": null,
+        "whenCreated": "2024-02-09 10:43:57.0",
+        "del": false,
+        "parentBoardId": 3532850,
+        "nickName": "블리",
+        "userStatus": "NM",
+        "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-3.png",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": false,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 823500,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 80968,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": 693751204,
+    "campaignId": 0,
+    "boardId": 3517576,
+    "depth": 0,
+    "commonId": 265158,
+    "body": "밤호박한끼 펀딩 한 이후 완전 푹 빠져버린 옥키!\n이번엔 고구마한끼라니 너무 좋아요. \n지지서명, 응원, 알림설정, 체험단 신청까지 \n전부 완료 했습니다 :) \n맛있는 펀딩 기다리고 있을게요!",
+    "commentType": "SUPPORT",
+    "whenCreated": "2024-01-28 10:50:53.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "소영주",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20191026094835491_114194875.jpg",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 655545501,
+        "campaignId": 0,
+        "boardId": 3540836,
+        "depth": 1,
+        "commonId": 265158,
+        "body": "안녕하세요 영주 서포터님!\n옥키는 한번 빠져들면 나오기 어려운 곳인거 아시쥬?ㅎㅎㅎㅎㅎㅎ 체험단 신청까지 정말 감사해요 ㅜ \n맛있는 펀딩이라는 말에 보답할 수 있도록 최선을 다하겠습니다.\n기대해주세용 ♡",
+        "commentType": null,
+        "whenCreated": "2024-02-09 14:39:40.0",
+        "del": false,
+        "parentBoardId": 3517576,
+        "nickName": "옥키",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2023/0731/20230731145615429_228577.png",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 1734378,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 80969,
+        "typeId": 1,
+        "count": 2,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": 2943251311,
+    "campaignId": 0,
+    "boardId": 3516982,
+    "depth": 0,
+    "commonId": 265158,
+    "body": "혹시 유통기한은 어찌될까요. ??",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-01-27 18:13:05.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "saeun chung",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-2.png",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 9833182515,
+        "campaignId": 0,
+        "boardId": 3521620,
+        "depth": 1,
+        "commonId": 265158,
+        "body": "안녕하세요! 서포터님!\n냉동보관 100일이에요^^ ",
+        "commentType": null,
+        "whenCreated": "2024-01-29 20:41:15.0",
+        "del": false,
+        "parentBoardId": 3516982,
+        "nickName": "옥키",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2023/0731/20230731145615429_228577.png",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 2675683,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 78084,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 958681119,
+    "campaignId": 0,
+    "boardId": 3513634,
+    "depth": 0,
+    "commonId": 265158,
+    "body": "구운고구마 너무너무 기대되는데요?\n구워먹기 귀찮을 때 딱일거 같아요!\n이 프로젝트 응원합니다👍🏻",
+    "commentType": "SUPPORT",
+    "whenCreated": "2024-01-25 20:19:56.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "박선곤",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2024/0110/20240110160433901_504569.jpeg",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 11799819018,
+        "campaignId": 0,
+        "boardId": 3540884,
+        "depth": 1,
+        "commonId": 265158,
+        "body": "안녕하세요! 선곤 서포터님!\n고구마는 구워서 먹는게 찐이자나유!! 특히 꿀고구마는 참을수 없쥐!\n프로젝트 응원 진심으로 감사드려요! 이게 마시는게 아까울정도로 좋은고구마로 만들어 보낼게요\n감사합니다^^",
+        "commentType": null,
+        "whenCreated": "2024-02-09 15:12:26.0",
+        "del": false,
+        "parentBoardId": 3513634,
+        "nickName": "옥키",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2023/0731/20230731145615429_228577.png",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [
+          {
+            "boardReactionId": 82735,
+            "typeId": 1,
+            "count": 1,
+            "isChecked": false
+          }
+        ],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 504569,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 80980,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 635923806,
+    "campaignId": 0,
+    "boardId": 3509367,
+    "depth": 0,
+    "commonId": 265158,
+    "body": "💙메이커팔로우 알림신청 지지서명 응원\n체험단신청 완료💙 \n\n지지서명\nhttps://wadiz.onelink.me/gmeA/wxuvmkv6?utm_campaign=copy\n\n오직 옥키만 만들 수 있는\n특별한 한끼! \n\n🍠고구마계의 꿀맛\n베니 하루카 끌고구마로\n만든 군고구마 한끼! \n\n고객들의 소리를\n귀 기울여 들어주셔서\n이번에는 대용량! \n\n100% 수제 손질과\n국산 원유, 국산 천일염과\n부재료까지 프리미엄으로! \n\n진짜 든든하려면\n군고구마 함량이 높아야 하는데\n한팩으로 충분한 \n한끼 군고구마가 무려 30%나\n가득 들어가있어요! \n\n꼼꼼한 세척과\n하나하나 손질하는 정성은\n옥키의 퀄리티를 더욱 높여주죠! \n\n단순한 플라스틱병에 담는게 아닌\n투명 파우치까지 신경써서\n짜먹을수 있도록\n하나부터 열까지 소비자를\n많이 생각해주셔서 \n\n너무 좋습니다 \n\n식사시간이 일정하지 않은 제게\n구원템이네요! \n군고구마 엄청 좋아하는데 \n한끼로 먹을 수있다니! \n\n이제는 굶지않아도 되겠어요!! \n\n🍠일상의 하루 한끼 행복을\n옥키 고구마 한끼와 함께하며 \n기운내고싶어요!🍠\n\n\n이번 펀딩 10000% 달성을\n지지하고 응원합니다",
+    "commentType": "SUPPORT",
+    "whenCreated": "2024-01-23 19:27:07.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "렌",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2023/1204/20231204114704070_1059873.png",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 7866546012,
+        "campaignId": 0,
+        "boardId": 3540889,
+        "depth": 1,
+        "commonId": 265158,
+        "body": "안녕하세요 렌 서포터님!\n사실 옥키의 체험단엔 많은걸 요청드리고 있음에도 불구하고 ㅜ 신청해주시고 신경써주셔서 정말 감사합니다! \n투명파우치에 대한 옥키의 생각은 가장 첫 시작인 2017년 부터였어요. ㅎㅎ \n그땐 다들 환경에 관심이 많이 있진 않았지만 왠지.....플라스틱 병엔 못 담겠더라구여 ㅜ 그마음 느껴주셔서 감사합니다 ♡",
+        "commentType": null,
+        "whenCreated": "2024-02-09 15:14:23.0",
+        "del": false,
+        "parentBoardId": 3509367,
+        "nickName": "옥키",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2023/0731/20230731145615429_228577.png",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [
+          {
+            "boardReactionId": 80982,
+            "typeId": 1,
+            "count": 1,
+            "isChecked": false
+          }
+        ],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 1059873,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 72026,
+        "typeId": 1,
+        "count": 2,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 7941570015,
+    "campaignId": 0,
+    "boardId": 3505701,
+    "depth": 0,
+    "commonId": 265158,
+    "body": ".\n.\n밤호박 주문해서 완전 잘 먹었던 서포터입니다 🩷\n사실 고구마보다는 호박을 더더 좋아하는데도 불구하고 펀딩의사가 강력한건 밤호박이 너무너무 맛있었기때문이죠ㅠ💙\n그 날 대용량으로 출시했다하셔서 이 정도만 시켜볼까하고 너무 쪼꼼 시켰더니 진짜 한 팩 한 팩 아껴먹었어요ㅠㅜ 😂\n아무리 대대대용량으로 시켜도 부족할 맛에 반해 옥키믿고 고구마도 한 번 펀딩해볼까합니다! 💚\n밤호박때도 많이 달지않고 구수하니 딱 제 스타일이였는데 고구마는 원래가 달달한 재료니 얼마나 더 맛있을지 기대되요 ❤️\n옥키의 성공적인 펀딩을 기원합니다 💜",
+    "commentType": "SUPPORT",
+    "whenCreated": "2024-01-22 11:51:16.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "우리",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-5.png",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 12455364519,
+        "campaignId": 0,
+        "boardId": 3540911,
+        "depth": 1,
+        "commonId": 265158,
+        "body": "안녕하세요 우리서포터님!\n밤호박한끼는......진짜 안쟁이신거 후회하셨을거에요 ㅜ 제가 누누히 말씀드려요..... 첫펀딩 못하심 두번째는 무조건 쟁이셔야 한다궁... ㅜㅜ \n고구마한끼는... 음......특별한 맛은 아니에요. 근데 고구마 원재료 그것도 꿀 고구마 베니하루카 이기에 호불이 많이 없어요 ㅎㅎㅎㅎ 그만큼 무난하지만 쟁여두고 먹을 가치는 있다고 봐요. 저는 저녁에 배고픔에 몸부림 칠때면 고구마한끼를 꺼냅니다. 옥키에서 대용량 기다리는사람은 옥키대장이 1순위 일거에요...나도 쟁일거얏!!!ㅎㅎㅎ ",
+        "commentType": null,
+        "whenCreated": "2024-02-09 15:35:27.0",
+        "del": false,
+        "parentBoardId": 3505701,
+        "nickName": "옥키",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2023/0731/20230731145615429_228577.png",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 5294380,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 80988,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  }
+]

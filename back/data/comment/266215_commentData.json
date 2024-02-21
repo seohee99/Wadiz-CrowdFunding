@@ -1,0 +1,1216 @@
+[
+  {
+    "encUserId": 1258231807,
+    "campaignId": 0,
+    "boardId": 3558281,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "안녕하세요.\n혹시 리워드 수령 후 단순 변심으로 인한 환불 시,\n리워드 반품비가 얼마 일지 여쭙습니다.",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-21 16:14:54.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "배코알",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-1.png",
+    "hasReply": false,
+    "commentReplys": [],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 1797474,
+      "isFollowing": false
+    },
+    "reactions": [],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": 1726528307,
+    "campaignId": 0,
+    "boardId": 3556471,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "틸딩 강도 조절 가능한가요?제품 사진상으로는 의자 밑 레버가 있어보이는데 틸딩 강도 조절 가능한지 문의 드립니다",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-20 16:31:11.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "Reiyan",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20200314123825710_77181722.jpg",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 3009310711,
+        "campaignId": 0,
+        "boardId": 3556752,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요. 서포터님. 틸팅 강도 조절 가능합니다. ",
+        "commentType": null,
+        "whenCreated": "2024-02-20 18:55:25.0",
+        "del": false,
+        "parentBoardId": 3556471,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 2466469,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 85829,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 4974631207,
+    "campaignId": 0,
+    "boardId": 3552333,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "3단계 틸팅 각도 조절은 어떻게 조절하는건가요? ",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-18 15:29:37.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "윤석현",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-1.png",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 5197900319,
+        "campaignId": 0,
+        "boardId": 3553382,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요. 서포터님. 일반적인 의자와 틸팅 조작 동일합니다. (좌판아래 레버로 조정 및 고정 가능)",
+        "commentType": null,
+        "whenCreated": "2024-02-19 11:22:40.0",
+        "del": false,
+        "parentBoardId": 3552333,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 7106616,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 84642,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 3951609006,
+    "campaignId": 0,
+    "boardId": 3551513,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "팔걸이 높이가 궁금한데요 책상이 꽤 낮아서 팔걸이 아예 탈착 할수 있을까요 ?",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-17 16:02:46.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "박우성",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-2.png",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 1915015907,
+        "campaignId": 0,
+        "boardId": 3553477,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요. 서포터님. 팔걸이 최하 높이는 약 20cm이며, 탈착은 불가합니다. ",
+        "commentType": null,
+        "whenCreated": "2024-02-19 11:49:45.0",
+        "del": false,
+        "parentBoardId": 3551513,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 6586015,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 84641,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": 489311907,
+    "campaignId": 0,
+    "boardId": 3550903,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "헤드랑 등은 메쉬이고 \n앉는 부분은 쿠션인가요? 각 부위별로 재질이 궁금합니다",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-16 23:29:20.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "김지원",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-6.png",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 4377179216,
+        "campaignId": 0,
+        "boardId": 3553877,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요 서포터님. \n\n헤드, 등 - 메쉬\n좌판 - 메쉬 \n\n이렇게 구성되어있습니다. \n감사합니다. ",
+        "commentType": null,
+        "whenCreated": "2024-02-19 14:05:54.0",
+        "del": false,
+        "parentBoardId": 3550903,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 699017,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 84640,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": 7837392211,
+    "campaignId": 0,
+    "boardId": 3550455,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "몇몇 아쉬움과 실망감을 뒤로 하고 광고대로 제품 품질이 좋으리라 기대감을 품고 구매해봅니다.\n\n화이트 모델 이미지로 13만원대라고 홍보해 놓고, 소식에 없던 블랙 색상만 기존 가격으로 책정한 점 납득이 어렵습니다.\n13만원대로 홍보했던 것과는 달리 \"슈퍼 얼리버드\"라는 이름으로 극소량만 공지된 가격에 선착순 판매하셨군요.\n\"슈퍼 얼리버드\"와 똑같이 2월 출고 가능한 \"얼리버드\" 물량이 있음에도 1만원 추가된 점이 실망스럽습니다.\n그런 불합리한 이유로 \"얼리버드\" 그레이는 아직도 재고가 많네요.\n\n\"얼리버드\" 제품이 펀딩 기간 안에 완판되지 않으면 \"3월15일 출고\" 제품을  울며 겨자 먹기로 구매하신 분들께\n마저 팔리지 않은 \"얼리버드\" 2월 재고를 금액 추가 없이 미리 받을 수 있도록 해주세요.",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-16 17:28:31.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "클로버",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20240215034249480_76458576.jpg",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 3282884412,
+        "campaignId": 0,
+        "boardId": 3556753,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "네 알겠습니다. 서포터님. 다음 펀딩때는 서포터분들의 불만이 다시 발생 안하도록 고려해서 준비하도록 하겠습니다. 불편을 드려 죄송합니다. ",
+        "commentType": null,
+        "whenCreated": "2024-02-20 18:57:28.0",
+        "del": false,
+        "parentBoardId": 3550455,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      },
+      {
+        "encUserId": 5699921608,
+        "campaignId": 0,
+        "boardId": 3554851,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "조건의 문제가 아닙니다. 이런 식의 소비자 기만 행위를 인정하고 다시 발생하지 않도록 해주세요.\n안 그래도 여러 커뮤니티에서 린백 여론이 나쁘다 못해 조롱 당하기 까지 하는데 부디 현명한 운영 바랍니다. ",
+        "commentType": null,
+        "whenCreated": "2024-02-19 21:21:35.0",
+        "del": false,
+        "parentBoardId": 3550455,
+        "nickName": "클로버",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20240215034249480_76458576.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [
+          {
+            "boardReactionId": 85164,
+            "typeId": 1,
+            "count": 1,
+            "isChecked": false
+          }
+        ],
+        "maker": false,
+        "owner": false,
+        "support": false
+      },
+      {
+        "encUserId": 2462163309,
+        "campaignId": 0,
+        "boardId": 3553311,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요. 서포터님. 좋은 의견 감사드립니다. 내부적으로 검토해보겠습니다만, 현재 상황으로는 향후 남은 진행일이 짧고 합의된 내용으로 진행하는 리워드라서 저희가 쉽게 바꿀수 있다고 말씀드리긴 어려울거 같습니다. 그리고 이번을 발판 삼아, 다음에는 더욱 좋은 조건의 펀딩으로 찾아뵙겠습니다. 서포터님. ",
+        "commentType": null,
+        "whenCreated": "2024-02-19 11:06:04.0",
+        "del": false,
+        "parentBoardId": 3550455,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 7124902,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 83919,
+        "typeId": 1,
+        "count": 5,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 6123797010,
+    "campaignId": 0,
+    "boardId": 3548987,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "쇼룸 위치가 어디일까요? 주문하기전 한번 체험해 보고 싶어서요",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-15 22:47:21.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "박지웅",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20230315000726885_2706156490.jpg",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 4377179216,
+        "campaignId": 0,
+        "boardId": 3549424,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요 서포터님. 서울 금천구 가산디지털1로 181, 1810호로 오시면 체험 가능하십니다 :)",
+        "commentType": null,
+        "whenCreated": "2024-02-16 10:07:02.0",
+        "del": false,
+        "parentBoardId": 3548987,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 6123797,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 83519,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 3559295005,
+    "campaignId": 0,
+    "boardId": 3548956,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "1차 분량분 구매했는데 지정일 배송 가능한가요? 새로 입주할 집에 받아야해서 2월 28일에 배송해서 2월 29일날 받고싶은데 ",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-15 22:26:14.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "starfruit",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20240212071740381_53348865.jpg",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 3556458113,
+        "campaignId": 0,
+        "boardId": 3549460,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요 서포터님. 주문시, 배송메세지에 원하시는 출고일을 꼭 남겨주세요!! 단, 원하시는 날의 도착일 보장은 어렵습니다 ㅠㅠ 감사합니다 :)",
+        "commentType": null,
+        "whenCreated": "2024-02-16 10:21:11.0",
+        "del": false,
+        "parentBoardId": 3548956,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 7118590,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 83520,
+        "typeId": 1,
+        "count": 2,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 11700227917,
+    "campaignId": 0,
+    "boardId": 3547491,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "얼리버드랑 슈퍼 얼리버드랑 차이점이 뭔가용??",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-15 10:22:24.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "¿",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20231107161520875_3152125735.jpg",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 2752994804,
+        "campaignId": 0,
+        "boardId": 3550787,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "고생하십니다 \n저는 그 성능차이를 물어본겁니다.",
+        "commentType": null,
+        "whenCreated": "2024-02-16 21:29:12.0",
+        "del": false,
+        "parentBoardId": 3547491,
+        "nickName": "¿",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20231107161520875_3152125735.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": false,
+        "owner": false,
+        "support": false
+      },
+      {
+        "encUserId": 1094294804,
+        "campaignId": 0,
+        "boardId": 3547506,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요. 서포터님. \n\n블랙 모델 기준으로 보면, \n슈퍼얼리버드 - 139,000 (2월26일 발송)\n얼리버드 - 149,000 (2월26일 발송)\n2차 오더 - 139,000 (3월15일 발송)\n\n이렇게 가격 구성이 되어있습니다. 감사합니다. ",
+        "commentType": null,
+        "whenCreated": "2024-02-15 10:30:55.0",
+        "del": false,
+        "parentBoardId": 3547491,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 6882487,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 83055,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 2137157403,
+    "campaignId": 0,
+    "boardId": 3546793,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "삼중조절 헤드레스트 설명의 gif 파일은 2개 조절만 보여주는데요,\n중간에 동그란 버튼을 누르면 전체가 아닌 헤드 부분만 높낮이 조절이 되는 것 맞나요?",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-14 19:08:24.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "익명의 서포터 302",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20240214175139663_59273049.jpg",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 1094294804,
+        "campaignId": 0,
+        "boardId": 3547504,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요. 서포터님. 3중 조절은 높낮이와 각도를 포함입니다. 동그란 버튼을 누르면 헤드레스트의 지탱하는 헤드레스트의 전체 각도 조절이 가능합니다. 아울러, 헤드레스트 각도의 부분 조절은 헤드레스트의 직접 조작으로 가능합니다. ",
+        "commentType": null,
+        "whenCreated": "2024-02-15 10:28:58.0",
+        "del": false,
+        "parentBoardId": 3546793,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 7123858,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 83052,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 2742394214,
+    "campaignId": 0,
+    "boardId": 3546376,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "1차랑 2차랑 제품 똑같은거죠??",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-14 16:40:24.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "김주현",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-4.png",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 1094294804,
+        "campaignId": 0,
+        "boardId": 3546380,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요 서포님:)\n1차,2차 동일한 제품 입니다.",
+        "commentType": null,
+        "whenCreated": "2024-02-14 16:42:00.0",
+        "del": false,
+        "parentBoardId": 3546376,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 1958853,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 82804,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": 8297202020,
+    "campaignId": 0,
+    "boardId": 3546195,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "그레이 슈퍼얼리버드를 노렸는데, 매진되는 바람에 얼리버드로 2대 펀딩했습니다. 이후 새소식에서 3월 2차 출고분은 슈퍼얼리버드 가격으로 제공한다는 글을 봤어요. 그럼 굳이 지금 2만원 더 내면서 얼리버드로 펀딩할 이유가 없어져버리네요. 기존 2대를 취소하고 슈퍼얼리버드를 기다리는 게 나을까요?",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-14 15:14:24.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "이현선",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-4.png",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 3282884412,
+        "campaignId": 0,
+        "boardId": 3546379,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요. 서포터님. 먼저 죄송스럽다는 심심한 사과 말씀드립니다. 생각보다 너무 성원이 커서 많은 분들께 제공드리고 싶은 마음에 이렇게 기획하였습니다. 대신 2차 출고일은 3월 중순으로 늦습니다.  ",
+        "commentType": null,
+        "whenCreated": "2024-02-14 16:41:24.0",
+        "del": false,
+        "parentBoardId": 3546195,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 4148601,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 82805,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": -1,
+    "campaignId": 0,
+    "boardId": 3546154,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "삭제된 글입니다.",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-14 14:49:11.0",
+    "del": true,
+    "parentBoardId": null,
+    "nickName": "",
+    "userStatus": "NM",
+    "photoUrl": "",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 2462163309,
+        "campaignId": 0,
+        "boardId": 3546185,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요. 서포터님. 먼저 죄송스럽다는 심심한 사과 말씀드립니다. 생각보다 너무 성원이 커서 많은 분들께 제공드리고 싶은 마음에 이렇게 기획하였습니다. 대신 2차 출고일은 3월 중순으로 늦습니다.  ",
+        "commentType": null,
+        "whenCreated": "2024-02-14 15:04:41.0",
+        "del": false,
+        "parentBoardId": 3546154,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 7108380,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 82751,
+        "typeId": 1,
+        "count": 2,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 1957685406,
+    "campaignId": 0,
+    "boardId": 3546078,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "공지된 펀딩가와는 다르게 제품 색상별 가격 차이가 있어 좀 당황스럽긴했지만 일단 펀딩 완료했습니다. 제품 설명과 같이 실제 제품을 받아보았을 때 만족했으면 좋겠습니다. 벌써 기대가 되네요~ㅎㅎ\n그리고 이번이 처음 진행하는 펀딩이 아니었을텐데 동일제품을 색상이 다르다고 가격차이를  둔점과 그사실을 미리 공지 안한건 좀 아쉽네요..ㅡㅡ;;;",
+    "commentType": "SUPPORT",
+    "whenCreated": "2024-02-14 14:12:28.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "라클라마",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-4.png",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 273573701,
+        "campaignId": 0,
+        "boardId": 3546103,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "구매 감사합니다. 서포터님. \n그리고 지적도 감사드립니다. \n생각보다 열화같은 성원에 슈퍼얼리버드 준비한 수량이 완판되어서 죄송스런 마음에 출고일이 늦은 2차 출고분 수량을 기획할 예정입니다. 감사하고 죄송합니다. ",
+        "commentType": null,
+        "whenCreated": "2024-02-14 14:23:47.0",
+        "del": false,
+        "parentBoardId": 3546078,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 3262809,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 82703,
+        "typeId": 1,
+        "count": 3,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": -1,
+    "campaignId": 0,
+    "boardId": 3546036,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "삭제된 글입니다.",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-14 13:55:51.0",
+    "del": true,
+    "parentBoardId": null,
+    "nickName": "",
+    "userStatus": "NM",
+    "photoUrl": "",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 273573701,
+        "campaignId": 0,
+        "boardId": 3546108,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요. 서포터님. 사출, 금형에 의한 가격차이가 있습니다. 성능과 내부 소재는 동일합니다. ",
+        "commentType": null,
+        "whenCreated": "2024-02-14 14:27:14.0",
+        "del": false,
+        "parentBoardId": 3546036,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 7108380,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 82704,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 710821501,
+    "campaignId": 0,
+    "boardId": 3546009,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "광고에서는 139,000원으로 봐서 구매하려고 하니 149,000원으로 뜨네요 어떻게 된건가요?",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-14 13:36:12.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "까니까니",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20240206111348214_36578295.jpg",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 4924326618,
+        "campaignId": 0,
+        "boardId": 3546101,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "생각보다 열화같은 성원에 슈퍼얼리버드 준비한 수량이 완판되었습니다. 죄송스런 마음에 출고일이 늦은 2차 출고분 수량을 기획할 예정입니다. 죄송합니다. ",
+        "commentType": null,
+        "whenCreated": "2024-02-14 14:22:54.0",
+        "del": false,
+        "parentBoardId": 3546009,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 7108215,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 82702,
+        "typeId": 1,
+        "count": 2,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 6323821209,
+    "campaignId": 0,
+    "boardId": 3546002,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "안녕하세요. 구매했는데 특정일자 이후로 배송이 가능할까요? 3월초에 이사때문에 조금 애매해서요. 불가능할 경우 배송지 변경하려고 합니다.",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-14 13:33:22.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "익명의 서포터 619",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20240101220141055_79872761.jpg",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 4924326618,
+        "campaignId": 0,
+        "boardId": 3546076,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "서포터님 안녕하세요. 특정일 배송은 불가하십니다 ㅠㅠ문의 감사합니다. ",
+        "commentType": null,
+        "whenCreated": "2024-02-14 14:11:58.0",
+        "del": false,
+        "parentBoardId": 3546002,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 7026468,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 82699,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": 12802143618,
+    "campaignId": 0,
+    "boardId": 3545984,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "신용카드 결제까지 해서 넘어갔는데 😭 왜 안되고 수량있다가 또 품절로 넘어갔네요ㅠㅠ 안된걸까요? 블랙이요",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-14 13:19:38.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "익명의 서포터 290",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-5.png",
+    "hasReply": false,
+    "commentReplys": [],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 7112302,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 82700,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  },
+  {
+    "encUserId": 2133348903,
+    "campaignId": 0,
+    "boardId": 3545979,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "얼리버드와 슈퍼얼리버드 차이가 뭔가요?",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-14 13:16:51.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "sky",
+    "userStatus": "NM",
+    "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20240207224956231_3333508451.jpg",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 4982934607,
+        "campaignId": 0,
+        "boardId": 3545991,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "초기 구매자 뭐이런것 같은데요",
+        "commentType": null,
+        "whenCreated": "2024-02-14 13:27:34.0",
+        "del": false,
+        "parentBoardId": 3545979,
+        "nickName": "정진우",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/sns_profile_pics/20240212020958930_3338731925.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": false,
+        "owner": false,
+        "support": true
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 7111163,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 82683,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": true
+  },
+  {
+    "encUserId": 2785928505,
+    "campaignId": 0,
+    "boardId": 3545873,
+    "depth": 0,
+    "commonId": 266215,
+    "body": "쇼바에 대한 내용은 없나요??",
+    "commentType": "SUGGESTION",
+    "whenCreated": "2024-02-14 12:10:47.0",
+    "del": false,
+    "parentBoardId": null,
+    "nickName": "네번째별",
+    "userStatus": "NM",
+    "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-6.png",
+    "hasReply": true,
+    "commentReplys": [
+      {
+        "encUserId": 2735737010,
+        "campaignId": 0,
+        "boardId": 3545963,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "해당 중심봉 포함 해당 상품은 미국 BIFMA 테스트를 통과한 상품입니다. \n\nBIFMA 테스트란? BIFMA American Office Furniture Association은 북미 사무용 가구 시장의 260%를 차지하는 가구 딜러의 이익을 대표하는 80개의 사무용 가구 제조, 판매 및 소비재 기업으로 구성된 비영리 조직입니다. BIFMA 표준은 포괄적인 내용과 기술적 엄격함으로 유명하며 전 세계적으로 널리 인정받고 있습니다. BIFMA 5.1-5.7은 사무용 의자, 서류 캐비닛, 소파용이며 사무용 의자 테스트용 BIFMA5.1은 의자 등받이 강도 테스트, XNUMX개의 클로 강도입니다. 테스트, 샌드백 자유 낙하 충격 테스트, 회전 테스트 스윙 메커니즘 피로 테스트, 의자 시트 피로 충격 테스트, 안정성 테스트, 팔걸이 강도 테스트, 의자 등받이 피로 테스트, 캐스터. XNUMX발 피로 시험, 의자 다리 근력 시험, 발판 피로 시험 등으로 다른 유사한 기준보다 훨씬 높습니다. 이를 통과 못하면 수출이 불가능합니다. \n\n아울러, 중국산 중심봉이라고 다같은 공장에서 생산되는것이 아니며, 린백은 한번도 그런 유감스러운 사고를 경험한적이 없습니다. 해당 상품은 까다로운 테스트를 거친 상품이라고 말씀드리고 싶습니다. ",
+        "commentType": null,
+        "whenCreated": "2024-02-14 13:06:56.0",
+        "del": false,
+        "parentBoardId": 3545873,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [
+          {
+            "boardReactionId": 82691,
+            "typeId": 1,
+            "count": 1,
+            "isChecked": false
+          }
+        ],
+        "maker": true,
+        "owner": false,
+        "support": false
+      },
+      {
+        "encUserId": 2785928505,
+        "campaignId": 0,
+        "boardId": 3545939,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "어디껀지 중국산은 아닌지... 폭팔 했다는 이야기도 있잔아요??",
+        "commentType": null,
+        "whenCreated": "2024-02-14 12:41:53.0",
+        "del": false,
+        "parentBoardId": 3545873,
+        "nickName": "네번째별",
+        "userStatus": "NM",
+        "photoUrl": "https://static.wadiz.kr/assets/icon/profile-icon-6.png",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": false,
+        "owner": false,
+        "support": false
+      },
+      {
+        "encUserId": 3009310711,
+        "campaignId": 0,
+        "boardId": 3545938,
+        "depth": 1,
+        "commonId": 266215,
+        "body": "안녕하세요. 서포터님. 460mm~540mm 자유롭게 조절이 가능하며, KCL에서 주관하는 150KG추를 24시간동안 힘을 가하는 내하중 테스트를 거친 튼튼한 중심봉입니다.  ",
+        "commentType": null,
+        "whenCreated": "2024-02-14 12:40:48.0",
+        "del": false,
+        "parentBoardId": 3545873,
+        "nickName": "주식회사 린백",
+        "userStatus": "NM",
+        "photoUrl": "https://www.wadiz.kr/wwwwadiz/green001/2020/0813/20200813163211309_77568.jpg",
+        "hasReply": false,
+        "commentReplys": [],
+        "commentImages": null,
+        "userFollow": null,
+        "reactions": [],
+        "maker": true,
+        "owner": false,
+        "support": false
+      }
+    ],
+    "commentImages": [],
+    "userFollow": {
+      "userId": 5571857,
+      "isFollowing": false
+    },
+    "reactions": [
+      {
+        "boardReactionId": 82641,
+        "typeId": 1,
+        "count": 1,
+        "isChecked": false
+      }
+    ],
+    "maker": false,
+    "owner": false,
+    "support": false
+  }
+]
