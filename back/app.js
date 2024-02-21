@@ -4,8 +4,6 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
 var campaignRouter = require('./routes/campaign');
 var commentRouter = require('./routes/comment');
 var {connectDB, closeDB} = require('./data/dbConnect')
@@ -27,8 +25,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 // db connect
 connectDB();
 
-app.use('/campaign', campaignRouter);
-app.use('/comments', commentRouter);
+app.use('/api/', campaignRouter);
+app.use('/api/', commentRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
